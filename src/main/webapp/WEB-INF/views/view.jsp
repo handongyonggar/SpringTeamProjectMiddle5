@@ -8,7 +8,7 @@
     <title>View</title>
 </head>
 <body>
-<h1>View Your Post</h1>
+<h1>View Your Posts</h1>
 
 <div>
 
